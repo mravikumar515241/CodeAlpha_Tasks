@@ -1,0 +1,46 @@
+#cv-template
+{
+    display: none;
+}
+.myimg
+{
+    border-radius: 80%;
+    width: 200px;
+    height: 180px;
+}
+span{
+  /*  background-color: rgb(29, 197, 189); */
+  
+    font-weight: 700;
+    text-shadow: 5px;
+    border-radius: 5px;
+    
+}
+.b{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 700;
+}
+.background
+{
+    /* background-color: rgb(127, 185, 255)*/
+    background-color: rgba(80, 194, 95, 0.859);
+}
+
+.big-size
+{
+    font-size: 35px;
+    
+}
+.small-size
+{
+    font-size: 10px;
+    
+}
+h3{
+    font-weight: 600;
+    color:rgb(0, 0, 0);
+}
+body{
+    background-color: #9fc2c0;
+    background-image: url(img21.jpg);
+}
